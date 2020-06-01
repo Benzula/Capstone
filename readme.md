@@ -48,3 +48,15 @@ https://seaborn.pydata.org/tutorial/color_palettes.html
 https://kite.com/blog/python/pandas-groupby-count-value-count/
 
 https://www.programcreek.com/python/example/53771/progressbar.ProgressBar
+
+https://joblib.readthedocs.io/en/latest/generated/joblib.dump.html
+
+https://docs.python.org/3/library/math.html
+
+https://towardsdatascience.com/basic-datetime-operations-in-python-2d706be82c63
+
+https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_coclustering.html#sphx-glr-auto-examples-bicluster-plot-spectral-coclustering-py
+
+https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_on_structured_data.html#sphx-glr-auto-examples-gaussian-process-plot-gpr-on-structured-data-py
+
+https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
