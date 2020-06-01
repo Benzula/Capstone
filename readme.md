@@ -46,3 +46,5 @@ https://www.oreilly.com/library/view/hands-on-machine-learning/9781789346411/e17
 https://seaborn.pydata.org/tutorial/color_palettes.html
 
 https://kite.com/blog/python/pandas-groupby-count-value-count/
+
+https://www.programcreek.com/python/example/53771/progressbar.ProgressBar
