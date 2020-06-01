@@ -1,3 +1,4 @@
+## Blog Link: https://medium.com/@bbyers3/udacity-capstone-starbucks-user-data-for-best-offers-40e4415d4f3c
 # Starbuck's Capstone Challenge
 
 ## Dataset overview
