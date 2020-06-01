@@ -39,6 +39,38 @@ reward: (numeric) money gained from "offer completed"
 time: (numeric) hours after start of test
 
 ### Data Results
+Based on there data set there are some characteristics that we have discovered:
+Total number of people - 14,825
+Total Men - 8484
+Total Women - 6129
+Total Undisclosed - 212
+A large part of the members are new members
+Most users are 50 years or greater
+Median Income - 64000
+Mean Income - 65405
+Mean Age - 54.4
+
+#### f1 scores
+[0.72727272727272718,
+ 0.71964679911699769,
+ 0.75568181818181812,
+ 0.7821522309711284,
+ 0.80833333333333335,
+ 0.84090909090909105,
+ 0.84595300261096606,
+ 0.75,
+ 0.73857404021937834,
+ 0.77720207253886009]
+ 
+### Conclusion
+Performance of the Classification Models
+The model with the highest fscore of 0.85 it discount_10_2_10. While the lowest score still met our evalutation criteria at 0.72 which is the bogo_10_10_7. The processing time for all of the models felt long (around 6 hours for my PC to run it all) but it could be nominal for larger companies like Starbucks who have much strong processing power than a single dual core laptop.
+
+Performance of the Regression Model
+Overall it did not do well, with an low R2 it would not be a good model for predicting behavior for users. Part of the reason could be due to the complex nature of the data and large variation without enough detail. More features such as race/location/etc could provide a clearer picture on how to market to the users more efficently.
+
+Possible Improvements
+More data can be collected, stronger processing power can be used, and a larger variety of offers could provide more insight into customer
 
 ### References
 https://www.oreilly.com/library/view/hands-on-machine-learning/9781789346411/e17de38e-421e-4577-afc3-efdd4e02a468.xhtml
