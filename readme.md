@@ -1,7 +1,7 @@
 # Starbuck's Capstone Challenge
 
 ## Dataset overview
-The goal of this program is to use the data to figure out the users that would be most responsive depending on the offer. This will allow the business to create new offers or target specific groups with the offer that they are most likely to respnod to.
+The goal of this is to use the data to figure out the users that would be most responsive depending on the offer. This will allow the business to create new offers or target specific groups with the offer that they are most likely to respond to.
 It will simulate users buying products from starbucks and how much of their decision was influenced by an offer.
 
 Only 3 types of offers are studied, BOGO, Discount, and Informational. Discount is a flat discount, Bogo requires buy a specific amount of something, and informational is just information for the user like a new product or a reminder of a popular product.
