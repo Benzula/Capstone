@@ -42,4 +42,7 @@ time: (numeric) hours after start of test
 
 ### References
 https://www.oreilly.com/library/view/hands-on-machine-learning/9781789346411/e17de38e-421e-4577-afc3-efdd4e02a468.xhtml
+
 https://seaborn.pydata.org/tutorial/color_palettes.html
+
+https://kite.com/blog/python/pandas-groupby-count-value-count/
