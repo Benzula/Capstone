@@ -40,14 +40,23 @@ time: (numeric) hours after start of test
 
 ### Data Results
 Based on there data set there are some characteristics that we have discovered:
+
 Total number of people - 14,825
+
 Total Men - 8484
+
 Total Women - 6129
+
 Total Undisclosed - 212
+
 A large part of the members are new members
+
 Most users are 50 years or greater
+
 Median Income - 64000
+
 Mean Income - 65405
+
 Mean Age - 54.4
 
 #### f1 scores
